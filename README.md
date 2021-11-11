@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages & Tools 🛠  
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glodieu&layout=compact&count_private=true)
+
+### Stats ⚙️
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=glodieu&count_private=true&show_icons=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=glodieu&hide_border=true)
+![](profile-summary-card-output/github/0-profile-details.svg)
+![](profile-summary-card-output/github/4-productive-time.svg)
