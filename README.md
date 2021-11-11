@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages & Tools 🛠  
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glodieu&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glodieu&layout=compact&count_private=false)
 
 ### Stats ⚙️
 
